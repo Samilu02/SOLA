@@ -13,6 +13,7 @@ const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 const { group } = require('console');
 
+
 // JWT secret key
 const jwtSecretKey = process.env.JWT_SECRET_KEY;
 // Set up App
