@@ -1,2 +1,4 @@
 node_modules/
 constants-PRIVATE.js
+
+.vercel
